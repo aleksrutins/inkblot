@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "inkblot/cli"
+Inkblot::CLI.start(ARGV)
